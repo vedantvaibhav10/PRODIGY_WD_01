@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "1",
+    "name": "BMW",
+    "price": 150,
+    "images": [
+      "./assets/menu-images/c1.jpg",
+      "./assets/menu-images/c2.jpg"
+    ],
+    "description": "BMW: Where precision meets exhilaration. Unleash the road with elegance, power, and sheer driving pleasure."
+  },
+  {
+    "_id": "2",
+    "name": "Ferrari",
+    "price": 180,
+    "images": [
+      "./assets/menu-images/d1.jpg",
+      "./assets/menu-images/d2.jpg"
+    ],
+    "description": "Ferrari: Where passion meets precision. Unleash the iconic roar, exhilarating speed, and timeless elegance."
+  },
+  {
+    "_id": "3",
+    "name": "Bentley",
+    "price": 160,
+    "images": [
+      "./assets/menu-images/e1.jpg",
+      "./assets/menu-images/e2.jpg"
+    ],
+    "description": "Bentley: Where opulence meets performance. Experience luxury, craftsmanship, and timeless British elegance."
+  },
+  {
+    "_id": "4",
+    "name": "Mercedes",
+    "price": 165,
+    "images": [
+      "./assets/menu-images/f1.jpg",
+      "./assets/menu-images/f2.jpg"
+    ],
+    "description": "Mercedes: A symphony of engineering excellence. Dominating the track with precision, power, and relentless pursuit of victory."
+  },
+  {
+    "_id": "5",
+    "name": "Porsche",
+    "price": 170,
+    "images": [
+      "./assets/menu-images/g1.jpg",
+      "./assets/menu-images/g2.jpg"
+    ],
+    "description": "Porsche: A symphony of precision and power. Where curves meet adrenaline, and every drive becomes a masterpiece."
+  },
+  {
+    "_id": "6",
+    "name": "Nissan",
+    "price": 180,
+    "images": [
+      "./assets/menu-images/h1.jpg",
+      "./assets/menu-images/h2.jpg"
+    ],
+    "description": "Nissan GTR: A symphony of power and precision. Unleash the beast, conquer the asphalt, and redefine speed."
+  },
+  {
+    "_id": "7",
+    "name": "Ford Mustang",
+    "price": 180,
+    "images": [
+      "./assets/menu-images/i1.jpg",
+      "./assets/menu-images/i2.jpg"
+    ],
+    "description": "Mustang: An American legend roars to life. Horsepower, heritage, and heart-pounding freedom on four wheels."
+  },
+  {
+    "_id": "8",
+    "name": "Maserati",
+    "price": 200,
+    "images": [
+      "./assets/menu-images/j1.jpg",
+      "./assets/menu-images/j2.jpg"
+    ],
+    "description": "Maserati: Elegance in motion. Italian craftsmanship, roaring engines, and the allure of luxury on four wheels."
+  }
+]

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="./ficon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./styles/styles.css" />
+    <link rel="stylesheet" href="./styles/common.css" />
+    <link rel="stylesheet" href="./styles/media.css" />
+    <link rel="stylesheet" href="./styles/loader.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    <title>TruDrive - House of Wheels</title>
+  </head>
+  <body>
+    <div class="loader-container">
+      <div class="loader"></div>
+    </div>
+    <nav class="navbar">
+      <a href="/" id="caffeine-heading">TruDrive</a>
+      <ul>
+        <li>
+          <a href="#main">Home</a>
+        </li>
+        <li>
+          <a href="#menu">Menu</a>
+        </li>
+      </ul>
+    </nav>
+    <main id="main">
+      <div class="landing">
+        <div id="landing-background">
+          <!-- javascript puts images here with class landing-background-image-->
+        </div>
+        <div id="background-indicators">
+          <!-- javascript puts dots here with class background-indicator-->
+        </div>
+        <h3>"Lets GO! Track Days"</h3>
+        <h1>Your one stop for all your racing needs</h1>
+        <p>We have the best cars and motorport certified racing gears from all over the world</p>
+        <a href="#menu" class="button-primary"> Order Now </a>
+        <div class="carousel-buttons">
+          <button id="carousel-button-prev" onclick="prevSlide()">
+            &#10094;
+          </button>
+          <button id="carousel-button-next" onclick="nextSlide()">
+            &#10095;
+          </button>
+        </div>
+      </div>
+      <div id="menu">
+        <h3>What we <span class="highlight">Offer</span></h3>
+        <h1>Charges</h1>
+        <div class="menu-items-container">
+          <!-- javascript puts menu items here with class menu-item-->
+        </div>
+        <div id="menu-item-details">
+          <div class="menu-item-detailed-overlay"></div>
+          <!-- 
+          javascript puts menu item details here with class menu-item-detailed
+         -->
+        </div>
+      </div>
+    </main>
+    <footer>
+      <span>&copy; Created by <a href="https://github.com/vedantvaibhav10" target="_blank">Vedant</a> </span>
+      <div>
+        <a href="https://github.com/vedantvaibhav10" target="_blank">
+          <img
+            src="https://www.svgrepo.com/show/303615/github-icon-1-logo.svg"
+            alt=""
+          />
+        </a>
+        <a href="https://www.linkedin.com/in/vedant-vaibhav-b15a35267" target="_blank">
+          <img src="https://www.svgrepo.com/show/508852/linkedin.svg" alt="" />
+        </a>
+      </div>
+    </footer>
+    <div class="scrollbar"></div>
+  </body>
+  <script src="./scripts/script.js"></script>
+</html>
